@@ -8,7 +8,7 @@ class Anagram
   
   def match(array)
     word.select do |word|
-      
+      @word
     %w(array)
   end
 end
